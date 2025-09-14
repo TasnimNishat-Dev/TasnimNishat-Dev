@@ -3,16 +3,16 @@
 
 # 👋 Hi, I’m Sadia Tasnim Nishat
 
-I’m an **imaginative and highly motivated software engineer** with a passion for turning ideas into functional digital solutions. I specialize in **front-end and back-end development**, crafting responsive, engaging, and user-friendly experiences.  
+I’m an imaginative and highly motivated **Software Engineer** with a passion for turning ideas into functional digital solutions. As a WebFlow Designer, I specialize in front-end and back-end development, crafting responsive, engaging, and user-friendly experiences. Alongside building and designing modern websites, I also focus on ensuring software quality through testing and analysis as a SQA Engineer, bringing both creativity and reliability to every project I work on.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FCC029?style=for-the-badge&logo=xampp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -22,16 +22,27 @@ I’m an **imaginative and highly motivated software engineer** with a passion f
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-
 ---
 
 ## 🚀 What I Do  
-- Work with **Python and its libraries** such as NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, and Keras  
-- Applied **Machine Learning techniques** (completed ML projects during university & committed to do more)  
+- Ensure software quality as an **SQA Engineer** through testing, analysis, and process improvement  
+- Work with **Python and its libraries** (NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras)  
+- Apply **Machine Learning techniques** (completed ML projects during university)  
+- Continuously learn and explore new technologies to stay adaptable and innovative  
 - Build clean, dynamic, and responsive websites  
-- Develop and customize **Webflow projects**  
+- Design and customize **Webflow projects** with a focus on creativity and user experience
 - Experiment with **creative UI/UX designs**  
-- Continuously learn and explore new technologies  
+- Continuously learn and explore new technologies
+
+---
+
+## 🎯 What I’m Looking For  
+I’m currently exploring opportunities where I can grow, contribute, and apply my skills. I’m open to roles such as:  
+   
+- **SQA Engineer** – ensuring software quality through testing, analysis, and process improvement.  
+- **Webflow Designer** – crafting responsive, creative, and user-friendly websites.
+- 
+I’m eager to bring both my **web development expertise** and **machine learning background** into a role where innovation and problem-solving are valued.  
 
 ---
 
