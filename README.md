@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Sadia Tasnim Nishat
 
-I’m an imaginative and highly motivated **Software Engineer** with a passion for turning ideas into functional digital solutions. As a WebFlow Designer, I specialize in front-end and back-end development, crafting responsive, engaging, and user-friendly experiences. Alongside building and designing modern websites, I also focus on ensuring software quality through testing and analysis as a SQA Engineer, bringing both creativity and reliability to every project I work on.  
+I’m an imaginative and highly motivated **Software Engineer** with a passion for turning ideas into functional digital solutions. As A ML Engineer I use advanced ML techniques to design intelligent systems capable of understanding, processing, and generating human language. As a WebFlow Designer, I specialize in front-end and back-end development, crafting responsive, engaging, and user-friendly experiences. Alongside building and designing modern websites, I also focus on ensuring software quality through testing and analysis as a SQA Engineer, bringing both creativity and reliability to every project I work on.  
 
 ---
 
@@ -14,6 +14,11 @@ I’m an imaginative and highly motivated **Software Engineer** with a passion f
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
@@ -25,9 +30,9 @@ I’m an imaginative and highly motivated **Software Engineer** with a passion f
 ---
 
 ## 🚀 What I Do  
-- Ensure software quality as an **SQA Engineer** through testing, analysis, and process improvement  
 - Work with **Python and its libraries** (NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras)  
-- Apply **Machine Learning techniques** (completed ML projects during university)  
+- Apply **Machine Learning techniques** (completed ML projects during university)
+- Ensure software quality as an **SQA Engineer** through testing, analysis, and process improvement  
 - Continuously learn and explore new technologies to stay adaptable and innovative  
 - Build clean, dynamic, and responsive websites  
 - Design and customize **Webflow projects** with a focus on creativity and user experience
@@ -39,9 +44,10 @@ I’m an imaginative and highly motivated **Software Engineer** with a passion f
 ## 🎯 What I’m Looking For  
 I’m currently exploring opportunities where I can grow, contribute, and apply my skills. I’m open to roles such as:  
    
-- **SQA Engineer** – ensuring software quality through testing, analysis, and process improvement.  
+- **SQA Engineer** – ensuring software quality through testing, analysis, and process improvement.
+- **ML Engineer** - specializing in NLP, transforming language data into intelligent, actionable insights.
 - **Webflow Designer** – crafting responsive, creative, and user-friendly websites.
-- 
+  
 I’m eager to bring both my **web development expertise** and **machine learning background** into a role where innovation and problem-solving are valued.  
 
 ---
