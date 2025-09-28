@@ -41,7 +41,7 @@ I’m an imaginative and highly motivated **Software Engineer** with a passion f
 ## 🚀 What I Do    
 - Work with **Python, SQL, and Excel/Google Sheets** for data analysis and visualization  
 - Apply **Machine Learning techniques** to real-world datasets (completed ML projects & thesis during university)
-- Develop **dynamic and responsive websites** as a Web Developer and Design and customize **Webflow projects**
+- Develop **dynamic and responsive websites** as a Web Developer and Design and customize Webflow projects
 - Build dashboards and reports using **Power BI and Retool**
 - Continuously explore new tools, libraries, and technologies to enhance skills  
 - Deliver clean, efficient, and maintainable code for both data projects and web applications
@@ -61,7 +61,7 @@ I’m eager to bring all my skills into a role where innovation and problem-solv
 ## Publication
 **Sustainable Waste Management System Using Artificial Intelligence and Satellite Communication: A Case Study | June 2024**
 Second Author, Presented at ICAEEE 2024, DUET, Dhaka [Read Paper](https://ieeexplore.ieee.org/abstract/document/10561816) 
--This conference paper critically analyzes solid waste management (SWM) methods in South Asia, identifying challenges in adopting integrated and satellite-based technologies. It suggests that deep learning (DL) models and image datasets can improve prototype performance and aid in planning sustainable SWM systems, particularly by leveraging pre-trained DL models (transfer learning).
+- This conference paper critically analyzes solid waste management (SWM) methods in South Asia, identifying challenges in adopting integrated and satellite-based technologies. It suggests that deep learning (DL) models and image datasets can improve prototype performance and aid in planning sustainable SWM systems, particularly by leveraging pre-trained DL models (transfer learning).
 
 ## Certificates
 - SQL (Basic, Intermediate & Advanced ), **HackerRank**
