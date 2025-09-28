@@ -3,54 +3,72 @@
 
 # 👋 Hi, I’m Sadia Tasnim Nishat
 
-I’m an imaginative and highly motivated **Software Engineer** with a passion for turning ideas into functional digital solutions. As A ML Engineer I use advanced ML techniques to design intelligent systems capable of understanding, processing, and generating human language. As a WebFlow Designer, I specialize in front-end and back-end development, crafting responsive, engaging, and user-friendly experiences. Alongside building and designing modern websites, I also focus on ensuring software quality through testing and analysis as a SQA Engineer, bringing both creativity and reliability to every project I work on.  
+I’m an imaginative and highly motivated **Software Engineer** with a passion for turning ideas into functional digital solutions. As A ML Engineer I use advanced ML techniques to design intelligent systems capable of understanding, processing, and generating human language. Also, I’m a Data Analyst passionate about turning raw data into actionable insights. I have hands-on experience in SQL, Python, Excel, Google Sheets, Power BI, Retool, and data visualization with Matplotlib. Alongside machine learning and data analysis, I specialize in front-end and back-end development, crafting responsive, engaging, and user-friendly experiences as a Web Developer. 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![XAMPP](https://img.shields.io/badge/XAMPP-FCC029?style=for-the-badge&logo=xampp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+### Data Analysis & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-43AA6C?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
+![Retool](https://img.shields.io/badge/Retool-0F111A?style=for-the-badge&logo=retool&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Web Development & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-## 🚀 What I Do  
-- Work with **Python and its libraries** (NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras)  
-- Apply **Machine Learning techniques** (completed ML projects during university)
-- Ensure software quality as an **SQA Engineer** through testing, analysis, and process improvement  
-- Continuously learn and explore new technologies to stay adaptable and innovative  
-- Build clean, dynamic, and responsive websites  
-- Design and customize **Webflow projects** with a focus on creativity and user experience
-- Experiment with **creative UI/UX designs**  
-- Continuously learn and explore new technologies
+## 🚀 What I Do    
+- Work with **Python, SQL, and Excel/Google Sheets** for data analysis and visualization  
+- Apply **Machine Learning techniques** to real-world datasets (completed ML projects & thesis during university)
+- Develop **dynamic and responsive websites** as a Web Developer and Design and customize **Webflow projects**
+- Build dashboards and reports using **Power BI and Retool**
+- Continuously explore new tools, libraries, and technologies to enhance skills  
+- Deliver clean, efficient, and maintainable code for both data projects and web applications
 
 ---
 
 ## 🎯 What I’m Looking For  
 I’m currently exploring opportunities where I can grow, contribute, and apply my skills. I’m open to roles such as:  
    
-- **SQA Engineer** – ensuring software quality through testing, analysis, and process improvement.
-- **ML Engineer** - specializing in NLP, transforming language data into intelligent, actionable insights.
-- **Webflow Designer** – crafting responsive, creative, and user-friendly websites.
+- **Data Analyst** – transforming data into actionable insights for better decision-making  
+- **Machine Learning Engineer** – building predictive and intelligent systems  
+- **Web Developer/Webflow Designer** – creating engaging, responsive, and user-friendly web experiences 
   
-I’m eager to bring both my **web development expertise** and **machine learning background** into a role where innovation and problem-solving are valued.  
+I’m eager to bring all my skills into a role where innovation and problem-solving are valued.  
 
 ---
+## Publication
+**Sustainable Waste Management System Using Artificial Intelligence and Satellite Communication: A Case Study | June 2024**
+Second Author, Presented at ICAEEE 2024, DUET, Dhaka [Read Paper](https://ieeexplore.ieee.org/abstract/document/10561816) 
+-This conference paper critically analyzes solid waste management (SWM) methods in South Asia, identifying challenges in adopting integrated and satellite-based technologies. It suggests that deep learning (DL) models and image datasets can improve prototype performance and aid in planning sustainable SWM systems, particularly by leveraging pre-trained DL models (transfer learning).
+
+## Certificates
+- SQL (Basic, Intermediate & Advanced ), **HackerRank**
+- Data Analysis with Python, **FreeCodeCamp**
+- Data Analysis: SQL, Tableau, Power BI & Excel, **Udemy**
+- Responsive Web Design, **FreeCodecamp**
+- WebFlow Masterclass, **FluxAcademy**
 
 ## 📊 GitHub Stats  
 
@@ -58,17 +76,17 @@ I’m eager to bring both my **web development expertise** and **machine learnin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimNishat-Dev&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TasnimNishat-Dev&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=TasnimNishat-Dev&theme=radical) 
 
 ---
 
 ## 📬 Let’s Connect  
 
-🌐 [Portfolio Website](https://tasnims-flow-1.webflow.io/)  
+🌐 [Portfolio Website Using WebFlow](https://tasnims-flow-1.webflow.io/)  
 💼 [LinkedIn](https://www.linkedin.com/in/sadia-tasnim-nishat-333178214)  
 📧 [Email Me](mailto:tasnim3nishat12@gmail.com)
 
 
 ---
 
-✨ *“Code is like art — it speaks best when it’s clean, simple, and creative.”*  
+✨ *“Code, data, and design — blending logic and creativity to solve problems and create impact.”*
